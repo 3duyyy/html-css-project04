@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Disallow: /dang-ky.html
+Disallow: /dang-nhap.html
+
+Sitemap: https://3duyyy.github.io/html-css-project04/sitemap.xml
